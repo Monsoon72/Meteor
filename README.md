@@ -7,4 +7,6 @@ NOTE: In order to see the full version of the meteor fall, please download the _
 open the Meteor.exe file, make sure the folder(images) is in the same directory/platform with the Meteor.exe file.  Ex: You can make a new folder and drag the Meteor.exe file and the images folder into it, then you are free to open :)
 
 
-Imported [EasyX Graphics Library](https://docs.easyx.cn/en-us/setup) 
+
+
+Acknowledgement: [EasyX Graphics Library](https://docs.easyx.cn/en-us/setup) 
