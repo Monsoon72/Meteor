@@ -1,5 +1,5 @@
-# Meteor
-C Meteor imitation
+# C/C++ Meteor imitation
+### I used Visual Studio Community 2022 to write this program and the Source.cpp file is included.
 
 *The program contains two stages, press any key in your keyboard to change from stage 1 to stage 2. Stage 1 is the "Confession Letter", Stage 2 is the "Meteor Fall".*
 
