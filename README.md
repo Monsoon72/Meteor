@@ -1,5 +1,5 @@
 # Meteor
-C++ Meteor imitation
+C Meteor imitation
 
 *The program contains two stages, press any key in your keyboard to change from stage 1 to stage 2. Stage 1 is the "Confession Letter", Stage 2 is the "Meteor Fall".*
 
